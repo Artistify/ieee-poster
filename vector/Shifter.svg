@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="116.20382"
+     inkscape:cx="118.22413"
      inkscape:cy="210.68162"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -48,7 +48,8 @@
      id="layer1"
      transform="translate(-210.34375,-256.45006)">
     <g
-       id="g3018">
+       id="g3018"
+       transform="matrix(-1,0,0,1,777.9866,0)">
       <path
          inkscape:connector-curvature="0"
          id="path3766"
